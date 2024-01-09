@@ -1,0 +1,17 @@
+INTERESTS IN PHILOSOPHY
+
+We are interested in the two fundamental hyper parallelized problems in philosophy: (1) Whether the software in question is correct and super? (2) Whether the mathematical theorem/proof in question is correct and super?  
+Therefore, we are interested directly in the programming languages of Lean. 
+
+Mathematicalization and Infinite_Categoricalization:   
+
+Infinite_Categoricalization of logic, Infinite_categoricalization of mathematical logic, Infinite_categoricalization of type theory, Infinite_categoricalization of homotopy type theory, univalent directed type theory, cubical type theory, simplicial homotopy type theory, higher observational type theory;  
+Mathematicalization of linguistics/languages/formal languages;  
+Deep relationship between probability and logics;  
+Correctness verification of softwares and programming languages.  
+
+Foundations of Mathematics: 
+   
+Derived-infinite categoricalization, Infinite_categories, Infinite_toposes, Infinite_stacks, fibered categories, higher fibered categories;  
+Infinite_Categoricalization of logic, Infinite_categoricalization of mathematical logic, Infinite_categoricalization of type theory, Infinite_categoricalization of homotopy type theory, univalent directed type theory, cubical type theory, simplicial homotopy type theory, higher observational type theory, lambda-calculus;    
+Derived-infinite categorificalized functional analysis, condensed mathematics.
