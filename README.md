@@ -61,7 +61,7 @@ to {
 <h1>
 XIN TONG PERSONAL SITE <br/>  
 AUTHOR: XIN TONG <br/>  
-UPDATED LAST ON: Mar 6 2024 <br/>  
+UPDATED LAST ON: Mar 16 2024 <br/>  
 </h1>
 </div>
 
@@ -98,7 +98,7 @@ UPDATED LAST ON: Mar 6 2024 <br/>
 
 
 <div class="sde">
-Software Development on Database Interface: <a href="https://github.com/xint040/SoftwareDevelopmentProjectonDatabaseInterface">https://github.com/xint040/SoftwareDevelopmentProjectonDatabaseInterface</a> <br/> 
+Software Development on Database Interface: <a href="https://github.com/xint040/softwaredevelopmentprojectoveranalyticstacksdatabaseinterface">https://github.com/xint040/softwaredevelopmentprojectoveranalyticstacksdatabaseinterface</a> <br/> 
 CSCE 606 Course Project Participation (legacy projects of FashioNXT): <a href="https://github.com/CSCE-606-Event360">https://github.com/CSCE-606-Event360</a> <br/>
 </div>
 
